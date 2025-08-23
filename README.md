@@ -6,7 +6,7 @@
 
 - 🔭 我是一个前端开发者
 - 🌱 我的主要技前端技术栈 **TypeScript+CSS+HTML+Vue+Vite+uniapp+Electron**
-- 🌱 我的主要技后端技术栈 **TypeScript+node+exprress+typeORM+mysql/mongodb**
+- 🌱 我的主要技后端技术栈 **TypeScript+node+express+typeORM+mysql/mongodb**
 - 🌱 我的最熟悉的业务 **绩效管理系统<OKR,绩效方案创建到结果>**
 - 🤔 我毕业于2021年 软件工程专业 学历本科  没有大厂工作经验
 - 🤔 为什么走前端这条路? 因为大学的时候前端是唯一让我感受到了所见即所得的领域！而不是只有控制台！
